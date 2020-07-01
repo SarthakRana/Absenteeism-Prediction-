@@ -1,3 +1,6 @@
 streamlit
 pandas
 datetime
+numpy
+pickle
+sklearn
